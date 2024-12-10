@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelouaheb Hocine</h1>
 <h3 align="center">A Data Scientist from Algeria Turning Data into Solutions</h3>
 
-<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gifv)" alt="Coding GIF" align="center" width="100%"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" align="center" width="100%"/>
 
 - 🌱 I’m currently learning **Django, Apache Spark, Airflow**
 
